@@ -3,3 +3,7 @@ choco install ghidra --version 11.3.2 -y
 choco install x64dbg.portable --version 20230115.1529 -y
 choco install assaultcube --version 1.2.0.2 -y
 choco install wesnoth --version 1.14.9 -y
+choco install sysinternals --version 2025.2.13 -y
+choco install wireshark --version 4.4.7 -y
+choco install steam --version 3.10.91.91241028 -y
+choco install git --version 2.49.0 -y
