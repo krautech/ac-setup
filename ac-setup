@@ -1,0 +1,5 @@
+choco install cheatengine --version 7.5 -y
+choco install ghidra --version 11.3.2 -y
+choco install x64dbg.portable --version 20230115.1529 -y
+choco install assaultcube --version 1.2.0.2 -y
+choco install wesnoth --version 1.14.9 -y
